@@ -16,6 +16,12 @@ public class AccountMain {
 		System.out.print("Enter balance: ");
 		double balance = sc.nextDouble();
 		
+	System.out.println("Creating account...");
+		@SuppressWarnings("unused")
+		double interestRate = 0.05; // default interest rate
+		
+		
+		
 		Account account = new Account(accountNumber, accountHolderName, balance);
 		account.display();
 		
