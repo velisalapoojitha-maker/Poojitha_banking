@@ -7,6 +7,7 @@ public class java {
 		System.out.println("Java is a versatile programming language.");
 		System.out.println("Let's learn Java together!");
 		System.out.println("Java is widely used for web development, mobile apps, and more.");
+		System.out.println("Java has a large community and extensive libraries.");
 		
 	}
 
